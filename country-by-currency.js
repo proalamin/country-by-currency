@@ -1,4 +1,4 @@
-let countryList = [
+let countryByCurrency = [
     {
         "country": "Afghanistan",
         "currency_code": "AFN"
@@ -972,3 +972,5 @@ let countryList = [
         "currency_code": "ZWD"
     }
 ]
+
+export { countryByCurrency};
